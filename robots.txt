@@ -1,1 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /#services
+Allow: /#products
+Allow: /#contact
 
+Sitemap: https://dwarnalglobalexims.com/sitemap.xml
